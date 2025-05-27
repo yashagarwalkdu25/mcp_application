@@ -232,30 +232,6 @@ mcp_application/
 4. Push to the branch
 5. Create a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Sentry for error tracking capabilities
-- GitHub for repository management features
-- Python community for excellent libraries and tools
-
-## 📞 Support
-
-For support, please:
-1. Check the [documentation](docs/)
-2. Open an issue in the repository
-3. Contact the maintainers
-
-## 🔄 Updates
-
-Stay updated with the latest changes by:
-- Watching the repository
-- Following the release notes
-- Checking the changelog
-
 ---
 
 Made with ❤️ by the MCP Application Team
